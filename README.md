@@ -1,5 +1,5 @@
 # Concentric-Rugs
-My solution to an expert level python practice problem found on edabit.com
+My solution to a python practice problem found on edabit.com
 
 Challenge found here: https://edabit.com/challenge/87YxyfFJ4cw4DsrvB
 
